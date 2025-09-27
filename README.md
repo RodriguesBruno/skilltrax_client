@@ -2,7 +2,7 @@
 
 # Skilltrax
 
-**Skilltrax Client** is a desktop companion app for [Star Citizen](https://robertsspaceindustries.com/star-citizen) that tracks your in-game kills and provides detailed statistics, logs, and recordings.  
+**Skilltrax ** is a desktop companion app for [Star Citizen](https://robertsspaceindustries.com/star-citizen) that tracks your in-game kills and provides detailed statistics, logs, and recordings.  
 It’s designed to run locally on Windows and comes with a simple web dashboard to view your gameplay stats.
 
 This repository only **tracks public releases**.
