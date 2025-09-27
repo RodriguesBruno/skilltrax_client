@@ -1,4 +1,4 @@
-<img src="static/sckticon.ico" alt="Star Citizen Logo" width="32"/>
+<img src="static/skilltrax.ico" alt="Star Citizen Logo" width="32"/> 
 
 # Skilltrax
 
