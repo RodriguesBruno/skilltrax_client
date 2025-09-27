@@ -2,8 +2,11 @@
 
 # Skilltrax
 
-**Skilltrax Client** is a desktop companion app for [Star Citizen](https://robertsspaceindustries.com/star-citizen) that tracks your in-game kills and provides detailed statistics, logs, and recordings.  
+**Skilltrax ** is a desktop companion app for [Star Citizen](https://robertsspaceindustries.com/star-citizen) that tracks your in-game kills and provides detailed statistics, logs, and recordings.  
 It’s designed to run locally on Windows and comes with a simple web dashboard to view your gameplay stats.
+
+This repository only **tracks public releases**.
+Feel free to raise issues/features requests.
 
 ---
 
@@ -28,19 +31,3 @@ It’s designed to run locally on Windows and comes with a simple web dashboard 
 
 ---
 
-## 📂 Project Structure
-
-```text
-.
-├── app.py                 # Main FastAPI entrypoint
-├── config/                # Default configuration files
-│   ├── client_config.json # Contains client version & title
-│   ├── config.default.json
-│   └── config_logging.json
-├── src/                   # Core application source
-│   ├── client.py
-│   ├── connection_manager.py
-│   ├── ...
-├── static/                # Icons, CSS, JS
-├── templates/             # Jinja2 templates (HTML dashboard)
-└── README.md
